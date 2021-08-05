@@ -20,7 +20,10 @@ class App extends Component<AppProps, AppState> {
     return (
       <div>
         <Hello name={this.state.name} />
-        <p>Start editing to see some magic happen :) This is Dave tho 123</p>
+        <p>
+          Start editing to see some magic happen :) This is Dave tho 123 REBUILD
+          THO
+        </p>
       </div>
     );
   }
